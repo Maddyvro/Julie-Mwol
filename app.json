@@ -5,7 +5,7 @@
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
     "repository": "https://github.com/Maddyvro/Julie-Mwol",
     "website":   "https://github.com/Maddyvro/Julie-Mwol",
-    "success_url": "https://github.com/Maddyvro/Julie-Mwol".
+    "success_url": "https://github.com/Maddyvro/Julie-Mwol", 
     "stack": "container",
     "env": {
         "JULIE_SESSION": {
